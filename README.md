@@ -1,6 +1,6 @@
 # 📚 Library Loans API
 
-REST API sederhana untuk **pencatatan peminjaman buku perpustakaan** oleh anggota. Dibuat untuk Responsi PPB 2026 menggunakan Node.js, Express.js, dan Supabase (PostgreSQL), lalu di-deploy ke Vercel.
+REST API sederhana untuk **pencatatan peminjaman buku perpustakaan** oleh Aufan Damays Marsuki kelompok 25. Dibuat untuk Responsi PPB Modul 1 menggunakan Node.js, Express.js, dan Supabase (PostgreSQL), lalu di-deploy ke Vercel.
 
 - **Repository:** https://github.com/aufannnn/library-loans-api
 - **Base URL (Vercel):** https://library-loans-api.vercel.app
